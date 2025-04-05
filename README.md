@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @judeeey
-- 👀 I’m interested in Python & Web Development.
+- 👀 Doing part-time projects with Python and C++.
 - 🌱 I’m currently learning PHP.
-- 💞️ I’m looking to collaborate on Python projects.
+- 💞️ I’m looking to collaborate on any Python projects.
 - 📫 Reach me: judeeey@proton.me
